@@ -1,18 +1,34 @@
 // 1. Define the Data
 const userData = [
-    { name: "Sidra_Siddiqui_completed_multisheet", rate: "alpha" },
+    // Original Batch (Cleaned Names)
+    { name: "sidra_siddiqui", rate: "alpha" },
     { name: "aymannadeem", rate: "alpha" },
-    { name: "neha_completed_multisheet", rate: "alpha" },
-    { name: "humaira_zeeshan_completed_multisheet", rate: "beta" },
+    { name: "neha", rate: "alpha" },
+    { name: "humaira_zeeshan", rate: "beta" },
     { name: "maheenzehra", rate: "beta" },
     { name: "unsakamran", rate: "beta" },
-    { name: "TOOBA_SAJID_completed_multisheet", rate: "beta" },
-    { name: "Syeda_Areeba_completed_multisheet", rate: "beta" },
+    { name: "tooba_sajid", rate: "beta" },
+    { name: "syeda_areeba", rate: "beta" },
     { name: "maheenshoaib", rate: "beta" },
-    { name: "LAIBA SHAHZAD", rate: "alpha" },
-    { name: "Farwa_completed_multisheet", rate: "beta" },
-    { name: "Kanwal_jamil_completed_multisheet", rate: "beta" }
+    { name: "laiba shahzad", rate: "alpha" }, // Kept space as in new data
+    { name: "farwa", rate: "beta" },
+    { name: "kanwal_jamil", rate: "beta" },
+    { name: "muhammad ishtiaque", rate: "alpha" },
+    { name: "masood_akhter", rate: "alpha" },
+    { name: "ali_sheikh", rate: "alpha" },
+    { name: "muhammad_ali", rate: "beta" },
+    { name: "waqartaha", rate: "alpha" },
+    { name: "md.aliwaiz", rate: "alpha" },
+    { name: "muhammad rayyan sabir", rate: "alpha" }, // Kept spaces as in new data
+    { name: "usmanhannan", rate: "beta" },
+    { name: "muhammad raheel", rate: "alpha" }, // Kept space as in new data
+    { name: "faisaltaxconsultancy", rate: "beta" },
+    { name: "mudassirnoshad", rate: "alpha" },
+    { name: "nahyanmasood", rate: "alpha" },
+    { name: "syed mohsib shah", rate: "beta" }, // Kept spaces as in new data
+    { name: "nmawez", rate: "alpha" }
 ];
+
 
 // 2. Define the Mark Mapping
 const marksMapping = {
