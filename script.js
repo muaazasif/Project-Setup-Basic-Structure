@@ -1,6 +1,5 @@
 // 1. Define the Data
 const userData = [
-    // Original Batch (Cleaned Names)
     { name: "sidra_siddiqui", rate: "alpha" },
     { name: "aymannadeem", rate: "alpha" },
     { name: "neha", rate: "alpha" },
@@ -10,24 +9,31 @@ const userData = [
     { name: "tooba_sajid", rate: "beta" },
     { name: "syeda_areeba", rate: "beta" },
     { name: "maheenshoaib", rate: "beta" },
-    { name: "laiba shahzad", rate: "alpha" }, // Kept space as in new data
+    { name: "laiba_shahzad", rate: "alpha" },
     { name: "farwa", rate: "beta" },
     { name: "kanwal_jamil", rate: "beta" },
-    { name: "muhammad ishtiaque", rate: "alpha" },
+    { name: "yusra_kanwal", rate: "beta" },
+    { name: "aimanahmed", rate: "beta" },
+    { name: "duaazahid", rate: "alpha" },
+    { name: "muhammad_ishtiaque", rate: "alpha" },
     { name: "masood_akhter", rate: "alpha" },
     { name: "ali_sheikh", rate: "alpha" },
     { name: "muhammad_ali", rate: "beta" },
     { name: "waqartaha", rate: "alpha" },
     { name: "md.aliwaiz", rate: "alpha" },
-    { name: "muhammad rayyan sabir", rate: "alpha" }, // Kept spaces as in new data
+    { name: "muhammad_rayyan_sabir", rate: "alpha" },
     { name: "usmanhannan", rate: "beta" },
-    { name: "muhammad raheel", rate: "alpha" }, // Kept space as in new data
+    { name: "muhammad_raheel", rate: "alpha" },
     { name: "faisaltaxconsultancy", rate: "beta" },
     { name: "mudassirnoshad", rate: "alpha" },
     { name: "nahyanmasood", rate: "alpha" },
-    { name: "syed mohsib shah", rate: "beta" }, // Kept spaces as in new data
-    { name: "nmawez", rate: "alpha" }
-];
+    { name: "syed_mohsib_shah", rate: "beta" },
+    { name: "nmawez", rate: "alpha" },
+    { name: "abdulrehman", rate: "beta" },
+    { name: "sufyansalahuddin", rate: "beta" },
+    { name: "muhammad_mugees_khan", rate: "alpha" }
+  ];
+  
 
 
 // 2. Define the Mark Mapping
